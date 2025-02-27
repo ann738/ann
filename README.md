@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ann
+## Hi there 👋 I'm Ann-Wanjiru 
 
 I'm a beginner embarking on my coding journey, currently pursuing a certificate in computer programming. Although I have no prior experience, I have a strong drive to learn and grow. I'm excited to build meaningful projects as I progress and gain new skills.  
 
